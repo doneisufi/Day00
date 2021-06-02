@@ -1,0 +1,5 @@
+commande lines used for this exercise :
+	* git clone forkedlinkgithub
+	* mkdir nameofthedirectory
+	* touch nameofthefile
+	* nano commands.txt to write down the commands lines used for this exercise
