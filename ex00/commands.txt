@@ -1,8 +1,28 @@
-fork
-git clone
 cd Day00
 cd ex00
+cd Planets
 mkdir Real
+    mkdir Gazeuses
+    mkdir Telluriques
 mkdir StarWars
 mkdir Startrek
+mv Andoria.jpg StarTrek/
+mv Coruscant.jpg StarWars/
+mv JanusVI.jpg StarTrek/
+mv Jupiter.jpg Real/Gazeuses/
+mv Lune.jpg Real/Telluriques/
+mv mars.jpeg Real/Telluriques/
+mv Mercure.jpg Real/Tellurique/
+mv Mustafar.png StarWars/
+mv Mustafar.png StarWars/
+mv Neptune.jpg Real/Gazeuses/
+mv Pluton.jpg Real/Gazeuses/
+mv Risa.jpg StarTrek/
+mv saturn.png Real/Gazeuses/
+mv Taris.png StarWars/
+mv Tatooine.jpg StarWars/
+mv Terre.jpg Real/Telluriques/
+mv Uranus.jpg Real/Gazeuses/
+mv Venus.jpg Real/Telluriques/
+mv Vulcan.jpg Real/Gazeuses/
 touch commands.txt
